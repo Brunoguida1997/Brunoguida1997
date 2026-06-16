@@ -41,3 +41,10 @@ Tenho 28 anos e atuo como **Analista de Dados** há 1 ano, transformando dados e
 ## 📬 Contato
 
 Fique à vontade para explorar meus repositórios e entrar em contato!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Brunoguida1997/Brunoguida1997/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Brunoguida1997/Brunoguida1997/output/snake.svg"
+    alt="cobrinha comendo commits" />
+</picture>
