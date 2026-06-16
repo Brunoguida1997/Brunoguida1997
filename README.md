@@ -44,7 +44,7 @@ Fique à vontade para explorar meus repositórios e entrar em contato!
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Brunoguida1997/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Brunoguida1997/output/snake.svg"
+    srcset="https://raw.githubusercontent.com/Brunoguida1997/Brunoguida1997/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Brunoguida1997/Brunoguida1997/output/snake.svg"
     alt="cobrinha comendo commits" />
 </picture>
