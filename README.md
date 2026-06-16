@@ -6,7 +6,7 @@
 
 ## 📌 Sobre mim
 
-Tenho 28 anos e atuo como **Analista de Dados Jr** há 1 ano, transformando dados em insights que apoiam decisões estratégicas. Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Inteligência Artificial e Ciência de Dados.
+Tenho 28 anos e atuo como **Analista de Dados** há 1 ano, transformando dados em insights que apoiam decisões estratégicas. Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Inteligência Artificial e Ciência de Dados.
 
 ---
 
