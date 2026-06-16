@@ -42,6 +42,13 @@ Tenho 28 anos e atuo como **Analista de Dados** há 1 ano, transformando dados e
 
 Fique à vontade para explorar meus repositórios e entrar em contato!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-guida-605580185)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoguida.bgn1997@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunoguida97/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511949852404)
+
+🐍 Meus commits sendo devorados em tempo real
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Brunoguida1997/Brunoguida1997/output/snake-dark.svg" />
